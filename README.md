@@ -2,6 +2,10 @@
 An unsupervised machine learning project exploring whether liver function measurements can reveal distinct patient profiles through K-means clustering and demographic analysis.
 ## Project Overview
 This project explores whether patient demographics and liver function measurements can reveal distinct patient profiles through unsupervised learning.
+## Interactive Dashboard
+Explore the interactive Tableau dashboard to examine patient cluster distributions, PCA-based cluster separation, and cluster profile comparisons.
+
+[View the Liver Patient Segmentation Dashboard on Tableau Public](https://public.tableau.com/views/LiverPatientSegmentationAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## Business Question
 **Can patient demographics and liver function measurements reveal distinct patient profiles?**
 ## Dataset
